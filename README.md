@@ -55,6 +55,7 @@ The cleaned dataset (`Orders`, `Returns`, and `People` tables) was modelled to a
 - **Product Category Breakdown:** Analyzed revenue and profit margins across categories.
 
 *(Here is a snapshot of the Pivot Table analysis and insights)*:
+
 ![Pivot Tables Analysis](Screenshot%202026-10-12%20202229.png)
 
 ![Dashboard](Screenshot%202026-10-12%20202153.png)
