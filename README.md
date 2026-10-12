@@ -1,6 +1,5 @@
 # Retail-Sales-Data-Analysis
 End-to-end retail sales data cleaning and analysis project using Excel and Power Query
-# 📊 End-to-End Retail Sales Data Analysis & ETL Pipeline
 
 ## 🚀 Project Overview
 A comprehensive data analysis project focusing on transforming raw, unstructured retail sales data into a clean, reliable, and analytical-ready data model. This project demonstrates end-to-end data processing using **Microsoft Excel** and **Power Query (ETL)**, followed by advanced exploratory data analysis and interactive Pivot Table reporting.
@@ -25,6 +24,7 @@ The raw dataset contained several structural and formatting anomalies. The follo
    
 *(Here is a snapshot showing the date cleaning process and raw format correction)*:
 ![Date Cleaning Process](Screenshot%202026-10-11%20023318.png)
+![Date Cleaning Process](Screenshot%202026-10-11%20023552.png)
 
 3. **Geographical & Text Restructuring:**
    * Cleaned and restructured location-based strings to separate geographical components correctly, ensuring accurate regional aggregation.
@@ -40,7 +40,7 @@ Using Power Query custom column transformations, key business metrics were engin
 * **`Duration of Ship`:** Computed order fulfillment time by calculating the exact difference between `Ship Date` and `Order Date`.
 
 *(Here is a snapshot showing the engineered custom columns)*:
-![Custom Columns](Screenshot%202026-10-11%20023552.png)
+![Custom Columns](Screenshot%202026-10-11%20023648.png)
 
 ---
 
@@ -52,7 +52,7 @@ The cleaned dataset (`Orders`, `Returns`, and `People` tables) was modelled to a
 * **Product Category Breakdown:** Analyzed revenue and profit margins across categories.
 
 *(Here is a snapshot of the Pivot Table analysis and insights)*:
-![Pivot Tables Analysis](Screenshot%202026-10-11%20023648.png)
+![Pivot Tables Analysis]
 
 ---
 
