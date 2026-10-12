@@ -28,6 +28,9 @@ The raw dataset contained several structural and formatting anomalies. The follo
 
 3. **Geographical & Text Restructuring:**
    * Cleaned and restructured location-based strings to separate geographical components correctly, ensuring accurate regional aggregation.
+  *(Here is a snapshot showing the date cleaning of location)*:
+![Date Cleaning Process](Screenshot%202026-10-12%20201722.png)
+![Date Cleaning Process](Screenshot%202026-10-12%20201754.png)
 4. **Error Handling & Null Management:**
    * Audited rows for missing values and structural errors to prevent downstream calculation failures.
 
