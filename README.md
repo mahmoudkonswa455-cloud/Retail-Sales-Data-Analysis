@@ -22,7 +22,7 @@ The raw dataset contained several structural and formatting anomalies. The follo
    * *Issue:* `Ship Date` and `Order Date` columns were improperly typed as whole numbers, displaying internal Excel serial numbers (e.g., `42685`).
    * *Solution:* Explicitly transformed data types in the `Changed Type` step to strict date formats (`type date`) to enable accurate time-series analysis.
    
-*(Here is a snapshot showing the date cleaning process and raw format correction)*:
+*(Here is a snapshot showing the date cleaning and raw format correction)*:
 ![Date Cleaning Process](Screenshot%202026-10-11%20023318.png)
 ![Date Cleaning Process](Screenshot%202026-10-11%20023552.png)
 
