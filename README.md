@@ -40,7 +40,7 @@ Using Power Query custom column transformations, key business metrics were engin
 * **`Duration of Ship`:** Computed order fulfillment time by calculating the exact difference between `Ship Date` and `Order Date`.
 
 *(Here is a snapshot showing the engineered custom columns)*:
-![Custom Columns](Screenshot%202026-10-11%20023648.png)
+![Custom Columns](Screenshot 2026-10-11 023648.png)
 
 ---
 
